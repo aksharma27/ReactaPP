@@ -1,0 +1,58 @@
+we'll use "src" folder for major changes in react.
+
+ReactDOM.render() ... is taking two elements, one render and one slector i.e is ID='root' here
+
+
+app.js is out first component, though index.js is out entry point, but app.js is out first component
+---------------------------- JSX--------------------------------------------
+jsx = js script extension
+example, className is the extension of class for html in jsx
+
+
+for using react emmit, in the lower right , select language and change to react js
+
+
+
+----------------------------------writing js in jsx ------------------------------------------------------
+
+ example: <div>{12+45</div>
+using curly braces to embed js inside div attribute.
+
+
+
+-----------------COMPONENTS--------------------------------------------------------
+we can use class based and funciton based components in react, function based is more accepted.
+
+
+we can use import statements for importing css or img files
+
+
+<>
+	----
+	----
+	----
+</> // this is important in jsx, to wrap everything inside a tag in jsx	 
+
+
+
+--------------- use bootstrap in react --------------------------------------------------
+
+first insert the <script> code inside INDEX.HTML and css also in INDEX.HTML
+
+now copy paste bootstrap code inside 
+<> .... </> in APP.JS
+
+* we can use rect bootstrap from google to use bootstrap for react
+
+-------------------- vs code extensions -----------
+es7 react/redux/... snippets. example: we can use "rcep" emmit for making a react component
+
+rfc: for react function based component
+
+
+
+--------------------- todoslist ----------------
+inside src, make a folder "myComponents", inside it, make a js file, Header.js:
+	
+
+
